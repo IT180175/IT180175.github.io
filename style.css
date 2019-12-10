@@ -1,0 +1,66 @@
+body{
+    background-color:#B3544F;
+}
+
+h1{
+    color:#FFA8A3;
+    font-family:'Calibri';
+    font-size: 400%;
+    text-transform:uppercase;
+    text-align:center;
+    margin-top:20%;
+}
+
+.h1{
+    margin-top:1%;
+}
+h2{
+    text-align:center;
+    color:#FFA8A3;
+    font-family:'Calibri';
+    font-weight:bold;
+    text-transform:uppercase;
+    
+
+}
+
+h3{
+    text-align:center;
+    color:#FFA8A3;
+    font-family:'Calibri';
+    text-decoration: underline;
+    
+}
+
+p{
+ text-align:center;
+ color:#FFA8A3;
+}
+
+
+button{
+    background-color: #B3544F;
+    border: 2px solid #FF8F8A;
+    color:white;
+    font-size:100%;
+    width:15%;
+    height:15%;
+    padding:1%;
+}
+
+#button1{
+    margin-left:45%;
+    
+}
+
+#button2{
+    margin-left:45%;
+    margin-top:1%;
+}
+
+img{
+    width:60%;
+    padding:3%;
+    margin-left:16%;
+    border:1px solid #FF8F8A;
+}
